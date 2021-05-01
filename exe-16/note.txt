@@ -1,0 +1,1 @@
+syllable level segmentation is applied for both zawgyi and unicode.
