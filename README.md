@@ -16,5 +16,5 @@ My Answers for Dr Ye Kyaw Thu's UTYCC NLP Class Exercises
 13. G2P (Graphame-to-Phoneme) conversion exercise
 14. String similarity measurement with edit-distance
 15. FSTFST model for conversion small-capital, capital-to-smallKayah
-16. ASCII to Kayah Unicode font conversion with FST
+16. Unicode 2 ZawGyi/ ZawGyi to Unicode (FST)
 17. Report/Paper writing with Latex 
