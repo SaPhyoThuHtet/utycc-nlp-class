@@ -18,4 +18,4 @@ My Answers for Dr Ye Kyaw Thu's UTYCC NLP Class Exercises
 15. FSTFST model for conversion small-capital, capital-to-smallKayah
 16. Unicode 2 ZawGyi/ ZawGyi to Unicode (FST)
 17. Report/Paper writing with Latex 
-18. Final Project
+18. Final Project (POS Tagging Based on Machine Translation)
