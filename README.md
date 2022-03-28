@@ -17,9 +17,12 @@ NLP class aims for PhD and master students. The class is conducted by the Univer
 [8. Grapheme-to-Phoneme Conversion Model Building with CRF](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-7)|I just uploaded the pdf file that contains the process of the model building| Perl, Python, Shell, Bash
 [9. Spelling Checker with a Dictionary](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-9)|Jaccard Similarity , levenshtein algorithms are used. But the result is still unsatisfied.| Perl
 [10. Developing a new keyboard based on kKg](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-10)|Burmese Braille Keyboard Layout and Zawgyi Style Unicode Keyboard Layout| None
+[11. Preprocessing for Finite State Transducer](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-11)|I just uploaded the pdf files that contain the process| Bash, Shell, Python, Perl
+[12. Practical Conversion of Finite State Automata Model](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-12)|I just uploaded the pdf files that contain the process| Bash, Shell, Python, Perl
+[12. G2P (Graphame-to-Phoneme) conversion exercise](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-13)|I just uploaded the pdf files that contain the process| Bash, Shell, Python, Perl
 
-11. Developing a new keyboard based on kKg
-12. Preprocessing for FST
+
+
 13. Practical building of a FSA model
 14. G2P (Graphame-to-Phoneme) conversion exercise
 15. String similarity measurement with edit-distance
