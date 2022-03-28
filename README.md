@@ -19,14 +19,7 @@ NLP class aims for PhD and master students. The class is conducted by the Univer
 [10. Developing a new keyboard based on kKg](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-10)|Burmese Braille Keyboard Layout and Zawgyi Style Unicode Keyboard Layout| None
 [11. Preprocessing for Finite State Transducer](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-11)|I just uploaded the pdf files that contain the process| Bash, Shell, Python, Perl
 [12. Practical Conversion of Finite State Automata Model](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-12)|I just uploaded the pdf files that contain the process| Bash, Shell, Python, Perl
-[12. G2P (Graphame-to-Phoneme) conversion exercise](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-13)|I just uploaded the pdf files that contain the process| Bash, Shell, Python, Perl
-
-
-
-13. Practical building of a FSA model
-14. G2P (Graphame-to-Phoneme) conversion exercise
-15. String similarity measurement with edit-distance
-16. FSTFST model for conversion small-capital, capital-to-smallKayah
-17. Unicode 2 ZawGyi/ ZawGyi to Unicode (FST)
-18. Report/Paper writing with Latex 
-19. Final Project (POS Tagging Based on Machine Translation)
+[13. FSTFST model for conversion small-capital](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-15)|I just uploaded the pdf files that contain the process| Bash, Shell, Python, Perl
+[14. FSTFST model for conversion Zawgyi Encoding - Unicode Encoding](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-16)|I just uploaded the pdf files that contain the process| Bash, Shell, Python, Perl
+[15. Report/Paper writing with Latex](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-17)|Latex| None
+[16. Final Project: POS Tagging Based on Machine Translation](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/final-project)|POS Tagging, Machine Translation| Python
