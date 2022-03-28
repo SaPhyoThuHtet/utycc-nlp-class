@@ -25,3 +25,6 @@ NLP class (2019-2020) was a course for PhD and master students and it was conduc
 [14. FSTFST model for conversion Zawgyi Encoding - Unicode Encoding](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-16)|I just uploaded the pdf files that contain the process| Bash, Shell, Python, Perl
 [15. Report/Paper writing with Latex](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-17)|Latex| None
 [16. Final Project: POS Tagging Based on Machine Translation](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/final-project)|POS Tagging, Machine Translation| Python
+
+### LICENSE
+[MIT LICENSE](https://github.com/SaPhyoThuHtet/utycc-nlp-class/blob/main/LICENSE)
