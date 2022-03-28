@@ -7,12 +7,8 @@ My Answers of UTYCC NLP Class Exercises
 
  Exercise Name | Note| Programming Used
 | ------------- | ------------- |------------- |
-[1. 10-Fold Cross Validation](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe1)| Seperate the data into 10 folds for Cross Validation| Shell
-
-| Content Cell  | Content Cell  | Content Cell  | 
-
-1. Exercise of data preparation for 10-fold cross validation
-3. Write a Word Segmentation Checker
+[1. 10-Fold Cross Validation](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe1)| Seperate the data into 10 folds for Cross Validation| Bash
+[2. Burmese Word Segmentation Checker](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-2)|Conditional Random Field is used to segment word| Bash, Python
 4. Exercise of manual word segmentation
 5. Myanmar text to Myanmar Braille converter (Parsing exercise)
 6. Parsing is everywhere!!! (programming with our beloved Myanmar language)
