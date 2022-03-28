@@ -1,5 +1,5 @@
 # UTYCC-NLP-Class
-My Answers for Dr Ye Kyaw Thu's UTYCC NLP Class Exercises
+My Answers of UTYCC NLP Class Exercises
 1. Exercise of data preparation for 10-fold cross validation
 2. Write a Word Segmentation Checker
 3. Exercise of manual word segmentation
