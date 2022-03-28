@@ -11,7 +11,7 @@ NLP class aims for PhD and master students. The class is conducted by the Univer
 [2. Burmese Word Segmentation Checker](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-2)|Conditional Random Field is used to segment word| Bash, Python
 [3. Manual Burmese Word Segmentation](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-3)|Dataset| None
 [4. Manual Burmese Text to Burmese Braille](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-4)|Regular Expression is used.| Perl
-5. Myanmar text to Myanmar Braille converter (Parsing exercise)
+[5. Parsing is everywhere!!! (programming with our beloved Myanmar language)](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe5)|Very Mini Burmese Programming, Regular Expression is used| Perl
 6. Parsing is everywhere!!! (programming with our beloved Myanmar language)
 7. WER (Word Error Rate)
 8. CalculationMyanmar Word Segmentation Model Building with CRF (Conditional Random Fields)
