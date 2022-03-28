@@ -1,6 +1,6 @@
 # UTYCC-NLP-Class
 
-NLP class aims for PhD and master students. The class is conducted by the University of Technology and visiting professor Dr Ye Kyaw Thu. There were 17 exercieses and one group final project to complete this class.
+NLP class aims for PhD and master students. The class is conducted by the University of Technology and visiting professor Dr Ye Kyaw Thu. There were 16 exercieses and one group final project to complete this class.
 
 
 **My Answers of UTYCC NLP Class Exercises**
