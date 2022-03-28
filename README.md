@@ -2,7 +2,7 @@
 
 NLP class (2019-2020) was a course for PhD and master students and it was conducted by the University of Technology and visiting professor Dr Ye Kyaw Thu. 
 
-
+# Exercises and Solutions
 **My Answers of UTYCC NLP Class Exercises**
 
 ![Exercise4: Burmese Text to Burmese Braille Converter](https://github.com/SaPhyoThuHtet/utycc-nlp-class/blob/main/images/sample.gif)
