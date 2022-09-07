@@ -1,6 +1,6 @@
 # UTYCC-NLP-Class
 
-NLP class (2019-2020) was a course for PhD and master students and it was conducted by the University of Technology and visiting professor Dr Ye Kyaw Thu. 
+NLP class (2019-2020) was a course for PhD and master students and it was conducted by the University of Technology and visiting professor Dr Ye Kyaw Thu. I got an opportunity to join that class.
 
 # Exercises and Solutions
 **My Answers of UTYCC NLP Class Exercises (RE is mostly used)**
