@@ -26,6 +26,9 @@ NLP class (2019-2020) was a course for PhD and master students and it was conduc
 [15. Report/Paper writing with Latex](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-17)|Latex| None
 [16. Final Project: POS Tagging Based on Machine Translation](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/final-project)|POS Tagging, Machine Translation| Python
 
+## References
+NLP Class UTYCC, https://github.com/ye-kyaw-thu/NLP-Class
+
 ## LICENSE
 [MIT LICENSE](https://github.com/SaPhyoThuHtet/utycc-nlp-class/blob/main/LICENSE)
 
