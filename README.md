@@ -26,6 +26,9 @@ NLP class (2019-2020) was a course for PhD and master students and it was conduc
 [15. Report/Paper writing with Latex](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/exe-17)|Latex| None
 [16. Final Project: POS Tagging Based on Machine Translation](https://github.com/SaPhyoThuHtet/utycc-nlp-class/tree/main/final-project)|POS Tagging, Machine Translation| Python
 
+## Acknowledgement
+I would like to sincerely thanks Dr Ye Kyaw Thu from my heart for your supervision, teaching, and guidances.I would like to thank Dr Hnin Aye Thant for giving me such a great opportunity to be able to join this class.
+
 ## References
 1. NLP Class UTYCC, https://github.com/ye-kyaw-thu/NLP-Class
 
