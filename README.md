@@ -31,7 +31,8 @@ I would like to sincerely thank Dr. Ye Kyaw Thu from my heart for your supervisi
 
 ## References
 1. NLP Class UTYCC, https://github.com/ye-kyaw-thu/NLP-Class
-2. Pa, Win & Kyaw Thu, Ye & Finch, Andrew & Sumita, Eiichiro. (2015). Word Boundary Identification for Myanmar Text Using Conditional Random Fields. 388. 447-456. 10.1007/978-3-319-23207-2_46. 
+2. Pa, Win & Kyaw Thu, Ye & Finch, Andrew & Sumita, Eiichiro. (2015). Word Boundary Identification for Myanmar Text Using Conditional Random Fields. 388. 447-456. 10.1007/978-3-319-23207-2_46.
+3. Wai, Khaing Hsu & Kyaw, Ye & Thant, Hnin & Moe, Zin & Supnithi, Thepchai. (2020). Myanmar (Burmese) String Similarity Measures based on Phoneme Similarity. 
 
 ## LICENSE
 [MIT LICENSE](https://github.com/SaPhyoThuHtet/utycc-nlp-class/blob/main/LICENSE)
